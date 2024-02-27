@@ -5,17 +5,17 @@ function Footer() {
   return (
     <div className="bg-red-500 flex items-center justify-center m-0 md:m-2">
       <div className=" md:w-full flex flex-col md:flex-row md:items-center justify-evenly pt-10 pb-16">
-          <div className="flex items-center mb-2">
+          <div className="flex items-center mb-4">
             <div className="p-[5px] bg-white rounded-full">
             <FaPhone className="text-red-500 bg-white h-4 w-4 rounded-full"/>
             </div>
             <h1 className="text-white mx-2">Toll free <span>18002001234</span></h1>
           </div>
-          <div className="flex items-center mb-2">
+          <div className="flex items-center mb-4">
             <FaFacebook className="bg-red-500 text-white h-6 w-6"/>
             <a className="text-white mx-2" href="www.facebook.cripumps">www.facebook.cripumps</a>
           </div>
-          <div className="flex items-center mb-2">
+          <div className="flex items-center mb-4">
             <div className="">
             <BsGlobe2 className="text-red-500 bg-white h-6 w-6 rounded-full"/>
             </div>

@@ -21,9 +21,9 @@ function home() {
         <div className=' w-11/12 mt-8 md:mt-16 flex flex-col items-center border-b-2 border-b-red-500'>
             <h1 className='text-sm font-semibold'>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</h1>
             <img src={img3} alt="" />
-            <p className='text-sm font-semibold py-3'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
+            <p className='text-sm text-center font-semibold py-3'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
         </div> 
-        <div className='w-11/12'>
+        <div className='w-11/12 mb-2'>
             <h1 className='text-center font-bold my-3'>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</h1>
             <div className='text-sm flex flex-wrap items-center justify-center font-medium text-center pb-2'>
                 <span className='px-1 border-r-2 border-r-red-500'>CHEMICALS & PROCESS</span>

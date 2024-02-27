@@ -5,9 +5,11 @@ import { Outlet } from 'react-router-dom'
 function Layout (){
     return(
         <>
+        <div className='bg-gradient-to-b from-white to-[#eae28f]'>
             <Header/>
             <Outlet />
             <Footer />   
+        </div>
         </>
     )
 }

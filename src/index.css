@@ -25,5 +25,5 @@ html,body{
   overflow-x: hidden;
 }
 html{
-  background: linear-gradient(to top #e9df72, white);
+  background: linear-gradient(to top, #e9df72, white);
 }
